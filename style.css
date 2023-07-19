@@ -156,13 +156,22 @@ span
 .grid-layout
 {
     display: flex;
-    /* grid-template-columns: 133px 133px 133px 133px; */
+ 
     align-items: center;
     justify-content: center;
-  /* column-gap: 300px; */
-  /* margin-right: 100px; */
+
   gap: 40px;
   margin-top: 45px;
  
     
+}
+
+
+.third-part-main
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 100px;
 }
