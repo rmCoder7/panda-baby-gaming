@@ -1,0 +1,168 @@
+body
+{
+   
+font-family: 'Roboto Slab', serif;
+}
+
+header
+{
+    padding: 50px 250px;
+}
+.nav-bar
+{
+    display: flex;
+    padding: 40px;
+    
+}
+
+#header-title
+{
+  padding-left: 30px;
+  /* font-size: 40px; */
+  font-size: 25px;
+}
+nav
+{
+    display: flex;
+justify-content: space-between;
+
+}
+ul
+{
+    display: flex;
+
+ 
+}
+li{
+    list-style: none;
+   margin: 20px;
+
+}
+a{
+   text-decoration: none;
+}
+
+ul>li>img
+{
+    width: 50px;
+    height: 30px;
+
+}
+
+
+
+container-li
+{
+    display: flex;
+}
+
+span
+{
+    color: rgba(255, 66, 165, 1);
+}
+
+.main-div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    background-image: url("../B8A2-Gamer-Zone-main/i14.png");
+}
+
+.Text-button
+{
+    padding-right: 20px;
+}
+
+.h1-color
+{
+    color: rgba(249, 72, 178, 1);
+}
+
+#text
+{
+    width: 150px;
+    height: 65px;
+    border: 0;
+    border-radius: 25px;
+    background-color: rgba(255, 66, 165, 1);
+    color: white;
+
+}
+
+#texted
+{
+    width: 150px;
+    height: 65px;
+    border: 0;
+    border-radius: 25px;
+    background-color: rgba(78, 197, 247, 1);
+    color: white;
+    margin-left: 15px;
+
+}
+
+#play
+{
+    color: rgba(255, 66, 165, 1);
+}
+
+#playeds
+{
+    color: rgba(255, 66, 165, 1);
+}
+
+.second-typed
+{
+    width: 150px;
+    height: 65px;
+    border: 0;
+    border-radius: 15px;
+    background-color: rgba(255, 66, 165, 1);
+    color: white;  
+}
+
+.second-main-div
+{
+    display: flex;
+    gap: 400px;
+    margin-top: 70px;
+}
+
+.second-h1
+{
+    color: rgba(249, 72, 178, 1);
+}
+
+.second-main-div
+{
+    background-color:  rgb(241, 236, 239);
+}
+
+
+#midle-funny
+{
+ color: rgba(249, 72, 178, 1);
+}
+
+
+.text-midle
+{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.grid-layout
+{
+    display: flex;
+    /* grid-template-columns: 133px 133px 133px 133px; */
+    align-items: center;
+    justify-content: center;
+  /* column-gap: 300px; */
+  /* margin-right: 100px; */
+  gap: 40px;
+  margin-top: 45px;
+ 
+    
+}
