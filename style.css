@@ -202,3 +202,33 @@ top: 50px;
  right: 200px;
  top: 50px;
 }
+
+.children-play
+{
+    display: flex;
+    align-items: center;
+justify-content: center;
+background-color:  rgba(255, 66, 165, 1); 
+height: 800px;
+margin-top: 200px;
+color: white;
+}
+
+.ul-class
+{
+display: grid;
+grid-template-columns: 200px 200px;
+
+}
+
+#button-url
+{
+    height: 65px;
+    border-radius: 20px;
+    background-color: white;
+    border: 0;
+    color: rgba(255, 66, 165, 1);
+    font-size: 20px;
+    padding: 15px;
+    margin-left: 80px;
+}
