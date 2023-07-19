@@ -4,6 +4,16 @@ body
 font-family: 'Roboto Slab', serif;
 }
 
+.Follow-us
+{
+    box-shadow: 1px 1px gainsboro ;
+    height: 40px;
+    border: 0;
+    padding: 3px;
+    border-radius: 5px;
+
+}
+
 header
 {
     padding: 50px 250px;
@@ -15,10 +25,10 @@ header
     
 }
 
-#header-title
+.header-title
 {
   padding-left: 30px;
-  /* font-size: 40px; */
+  
   font-size: 25px;
 }
 nav
