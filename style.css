@@ -172,6 +172,33 @@ span
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 200px;
+    gap: 100px;
     margin-top: 100px;
+}
+
+.short-image
+{
+position: relative;
+left: 200px;
+top: 50px;
+}
+
+.play-h1{
+    color: rgba(249, 72, 178, 1);
+}
+
+.third-part-other
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 150px;
+}
+
+.short-image-seond
+{
+    position: relative;
+ right: 200px;
+ top: 50px;
 }
